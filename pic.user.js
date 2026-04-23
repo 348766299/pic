@@ -8,7 +8,7 @@
 // @grant        GM_download
 // @grant        GM_xmlhttpRequest
 // @updateURL    https://raw.githubusercontent.com/348766299/pic/main/pic.user.js
-// @homepageURL  https://github.com/348766299/pic
+// @homepageURL  https://github.com/348766299/pic.user.js
 // ==/UserScript==
 
 (function() {
